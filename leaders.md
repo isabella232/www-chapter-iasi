@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Eugen Busoiu](mailto:eugen.busoiu@owasp.org)
+* [Alexandru Coman](mailto:alexandru.coman@owasp.org)
