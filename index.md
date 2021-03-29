@@ -8,6 +8,10 @@ region: Europe
 ## Welcome to the OWASP Iași Chapter Homepage
 Include some information here about your chapter
 
+Follow us on [Meetup](https://www.meetup.com/OWASP-Iasi-Meetup-Group/). Follow us on [Facebook](https://www.facebook.com/owasp.iasi/).
+
+Everyone is welcome to join our chapter meetings, members and non-members. OWASP Iași Chapter meetings / events are free and open, so please join us!
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
