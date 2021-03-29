@@ -12,7 +12,7 @@ tags: next-events-tag
 
 *Date*: Wednesday, March 31, 2021 -- 6:00 PM to 8:00 PM GMT+3
 
-![The Anatomy of a supply chain attack](/assets/images/the-anatomy-of-a-supply-chain-attack.jpg)
+![The Anatomy of a supply chain attack]({{ site.baseurl }}/assets/images/the-anatomy-of-a-supply-chain-attack.jpg)
 
 We're kicking off OWASP Iași local chapter with a presentation on The Anatomy of a supply chain attack, where we'll have as guest Dragoș Gavriluț, Director at BitDefender, coordinating the Cyber Threat Intelligence Lab.
 
