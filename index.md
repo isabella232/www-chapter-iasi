@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Iasi
-meetup group: OWASP-Iasi-Meetup-Group
+meetup-group: OWASP-Iasi-Meetup-Group
 tags: next-events-tag recent-events-tag past-events-tag
 region: Europe
 ---
